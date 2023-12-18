@@ -23,7 +23,7 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
-
+/*This is for the top bar that brings you to different sections of the page*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,7 +46,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This is the main image on the page.*/
 figure {
     height: 800px;
     width: 100%;
@@ -55,14 +55,14 @@ figure {
     background-size: cover;
     background-position: center;
 }
-
-.content {
+/*Main set of information for the site*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content-info {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -71,7 +71,7 @@ figure {
     color: #ffffff;
 }
 
-.content-info img {
+.content img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
@@ -87,7 +87,7 @@ figure {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*The sidebar that contains extra information on marketing*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -114,7 +114,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Just a small message from the company the website is for*/
 footer {
     padding: 30px;
     clear: both;
