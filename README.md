@@ -6,8 +6,6 @@ Changed an already existing set of code for a website to be accessible and clean
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
